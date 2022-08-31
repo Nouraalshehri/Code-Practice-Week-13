@@ -1,0 +1,18 @@
+body,h1,h5 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('855689ecabd364721d772d206ede7571.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.9;}
+  .logo img{
+    width: 300px;
+    height: 180px;
+   margin-left: 30em;
+   margin-top: 10em;
+  }
+  .menu{
+    width: 1000px;
+    height: 1200px;
+  }
